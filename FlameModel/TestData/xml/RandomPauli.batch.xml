@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Measurements History="false" Iterations="0" Method="Reference Method" Msmts="1" nHistories="10">
+<Observable Dimension="2" Use="true">
+<Row>
+<Value>(1,00000)</Value>
+<Value>(0,00000)</Value>
+</Row>
+<Row>
+<Value>(0,00000)</Value>
+<Value>(-1,00000)</Value>
+</Row>
+</Observable>
+<Perspective Dimension="2">
+<Value>(1,00000)</Value>
+<Value>(1,00000)</Value>
+</Perspective>
+	<Measurement>
+		<Flame Dimension="4" Type="PauliModel" Randomize="10000" RandMin="1" RandMax="10000">
+		</Flame>
+	</Measurement>
+</Measurements>

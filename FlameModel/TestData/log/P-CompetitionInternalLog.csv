@@ -1,0 +1,90 @@
+	started	ended	method	msmts	iter	FlameClass	F_Row1_real	F_Row1_imag	F_Row2_real	F_Row2_imag	F_absQ	F_size	F_sDim	F_pDim	F_glb exc	F_loc exc[ 1]	F_loc exc[ 2]	F_NullPairsRe[ 0]	F_NullPairsIm[ 0]	F_NullPairsRe[ 1]	F_NullPairsIm[ 1]	F_NullPairsRe[ 2]	F_NullPairsIm[ 2]	F_NullPairsRe[ 3]	F_NullPairsIm[ 3]	F_obR1C1_real	F_obR1C1_imag	F_obR1C2_real	F_obR1C2_imag	F_obR2C1_real	F_obR2C1_imag	F_obR2C2_real	F_obR2C2_imag	F_P0I0	F_P0I1	F_P0I2	F_P0I3	F_P1I0	F_P1I1	F_P1I2	F_P1I3	F_P2I0	F_P2I1	F_P2I2	F_P2I3	F_P3I0	F_P3I1	F_P3I2	F_P3I3	F_R1C1_real	F_R1C1_imag	F_R1C2_real	F_R1C2_imag	F_R2C1_real	F_R2C1_imag	F_R2C2_real	F_R2C2_imag	F_peRow1_real	F_peRow1_imag	F_peRow2_real	F_peRow2_imag	F_evR1C1_real	F_evR1C1_imag	F_evR1C2_real	F_evR1C2_imag	F_evR2C1_real	F_evR2C1_imag	F_evR2C2_real	F_evR2C2_imag	F_ewRow1_real	F_ewRow1_imag	F_ewRow2_real	F_ewRow2_imag	minIter	maxIter	avgIter	conv	div	target[1]	target[2]	sigma[1]	sigma[2]	dist[1]	dist[2]	actuals[1]	actuals[2]	chiTest[ 1]	chiTest[ 2]	chi999	chi990	chi975	chi950	chi900	minAbs	maxAbs	avgAbs	sigmaAbs	minSize	maxSize	avgSize	sigmaSize	minNP0	maxNP0	avgNP0	sigmaNP0	minNP1	maxNP1	avgNP1	sigmaNP1	minNP2	maxNP2	avgNP2	sigmaNP2	minNP3	maxNP3	avgNP3	sigmaNP3	nodeHash
+	2017-07-03 17:06:59	2017-07-03 17:07:10	Reference Method	100	500	de.bzus.flame.process.PauliFlame	54,70984	16,26838	27,78497	-40,47430	 5668	3400	2	4	0,97763	0,97763	0,97763	198	202	220	210	199	206	207	176	40,00000	0,00000	13,00000	-35,00000	13,00000	35,00000	12,00000	0,00000	224	202	198	228	233	210	220	216	234	207	199	206	221	219	207	176	40,00000	17,00000	14,00000	-41,00000	12,00000	29,00000	12,00000	-69,00000	1,00000	0,00000	1,00000	0,00000	0,56961	0,00000	-0,28618	-0,77049	0,82192	0,00000	0,19833	0,53396	-13,87480	0,00000	65,87480	0,00000	1	190	22	100	0	0,57478	0,42522	0,04944	0,04944	0,43000	0,57000	43	57	   3,64662	   4,92913	  10,82757	   6,63490	   5,02389	   3,84146	   2,70554	31	476	122	80	2970	133499	15684	16922	251	15461	2027	50	208	17643	1730	54	260	15649	1836	44	207	17723	2118	46	5897FDD5
+sample started at 2017-07-03 17:06:59
+
+Globals: debugLevel=1; maxSwarmSize=1000000; reseedCounter=10000000; minimalExcitement=1.0E-4; defaultRandMin=1000; defaultRandMax=10000; defaultMeasurements=100; defaultIterations=500; defaultDimension=3; defaultHistories=10; defaultUseObservable=true; log directory=./log; script directory=./xml
+source swarm=PauliFlame
+state :
+Row 1 : ((54,70984+16,26838i) )
+Row 2 : ((27,78497-40,47430i) )
+
+absQ= 5668; size=3400; stateDimension=2; particleDimension=4; global excitation=0,97763
+local excitation(1)=0,97763
+local excitation(2)=0,97763
+nullCountRe(0)=198; nullCountIm(0)=202 
+nullCountRe(1)=220; nullCountIm(1)=210 
+nullCountRe(2)=199; nullCountIm(2)=206 
+nullCountRe(3)=207; nullCountIm(3)=176 
+
+Observable:
+Row 1 : ((40,00000) (13,00000-35,00000i) )
+Row 2 : ((13,00000+35,00000i) (12,00000) )
+	P_0	P_1	P_2	P_3
+*(1):	224	233	234	221
+*(i):	202	210	207	219
+*(-1):	198	220	199	207
+(-i):	228	216	206	176
+Matrix :
+Row 1 : ((40,00000+17,00000i) (14,00000-41,00000i) )
+Row 2 : ((12,00000+29,00000i) (12,00000-69,00000i) )
+Perspective:
+Row 1 : ((1,00000) )
+Row 2 : ((1,00000) )
+
+
+source swarm PauliFlame
+state :
+Row 1 : ((54,70984+16,26838i) )
+Row 2 : ((27,78497-40,47430i) )
+
+absQ= 5668; size=3400; stateDimension=2; particleDimension=4; global excitation=0,97763
+local excitation(1)=0,97763
+local excitation(2)=0,97763
+nullCountRe(0)=198; nullCountIm(0)=202 
+nullCountRe(1)=220; nullCountIm(1)=210 
+nullCountRe(2)=199; nullCountIm(2)=206 
+nullCountRe(3)=207; nullCountIm(3)=176 
+
+Observable:
+Row 1 : ((40,00000) (13,00000-35,00000i) )
+Row 2 : ((13,00000+35,00000i) (12,00000) )
+	P_0	P_1	P_2	P_3
+*(1):	224	233	234	221
+*(i):	202	210	207	219
+*(-1):	198	220	199	207
+(-i):	228	216	206	176
+Matrix :
+Row 1 : ((40,00000+17,00000i) (14,00000-41,00000i) )
+Row 2 : ((12,00000+29,00000i) (12,00000-69,00000i) )
+Perspective:
+Row 1 : ((1,00000) )
+Row 2 : ((1,00000) )
+
+
+results from Reference Method running 100 measurements at 500 iterations each:
+
+relative values:
+targets=	  57,47753 %	  42,52247 %
+results=	  43,00000 %	  57,00000 %
+sigma=	   4,94377 %	   4,94377 %
+divergent:    0,00000 %; convergent:  100,00000 % based on        100 measurements performed
+
+absolute values:
+targets=	        57	        43	(values rounded)
+results=	        43	        57
+sigma=	   4,94377	   4,94377
+measurements scheduled:        100; divergent:          0; convergent        100
+min iterations:          1; max iterations:        190; average iterations       22,0
+
+
+statistics:
+medium size=15684	sigma=16922	max size=133499	min size= 2970
+medium abs=  122	sigma=   80	max abs=  476	min abs=   31
+chi test value:    8,57576	chi critical at 99.9%:   10,82757	chi critical at 99%:    6,63490	chi critical at 97.5%:    5,02389	chi critical at 95%:    3,84146	chi critical at 90%:    2,70554
+
+sample finished at 2017-07-03 17:07:11
+
+Please view results in log files:
+ErrorLog=Err-20170703 170523.log
+BatchLog=EVSLog-Reference Method-20170703 170659.csv
+HistoryLog=EVSHis-Reference Method-20170703 170659.csv

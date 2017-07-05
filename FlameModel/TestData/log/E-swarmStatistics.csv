@@ -1,0 +1,108 @@
+	started	ended	method	msmts	iter	FlameClass	F_R0C0_real	F_R0C0_imag	F_R1C0_real	F_R1C0_imag	F_R2C0_real	F_R2C0_imag	F_R3C0_real	F_R3C0_imag	F_R4C0_real	F_R4C0_imag	F_R5C0_real	F_R5C0_imag	F_R6C0_real	F_R6C0_imag	F_R7C0_real	F_R7C0_imag	F_R8C0_real	F_R8C0_imag	F_R9C0_real	F_R9C0_imag	F_absQ	F_size	F_sDim	F_pDim	F_target	F_anregung	F_tgt[ 0]	F_excit[ 0]	F_tgt[ 1]	F_excit[ 1]	F_tgt[ 2]	F_excit[ 2]	F_tgt[ 3]	F_excit[ 3]	F_tgt[ 4]	F_excit[ 4]	F_tgt[ 5]	F_excit[ 5]	F_tgt[ 6]	F_excit[ 6]	F_tgt[ 7]	F_excit[ 7]	F_tgt[ 8]	F_excit[ 8]	F_tgt[ 9]	F_excit[ 9]	F_NullPairsRe[ 0]	F_NullPairsIm[ 0]	F_NullPairsRe[ 1]	F_NullPairsIm[ 1]	F_NullPairsRe[ 2]	F_NullPairsIm[ 2]	F_NullPairsRe[ 3]	F_NullPairsIm[ 3]	F_NullPairsRe[ 4]	F_NullPairsIm[ 4]	F_NullPairsRe[ 5]	F_NullPairsIm[ 5]	F_NullPairsRe[ 6]	F_NullPairsIm[ 6]	F_NullPairsRe[ 7]	F_NullPairsIm[ 7]	F_NullPairsRe[ 8]	F_NullPairsIm[ 8]	F_NullPairsRe[ 9]	F_NullPairsIm[ 9]	F_E0I0	F_E0I1	F_E0I2	F_E0I3	F_E1I0	F_E1I1	F_E1I2	F_E1I3	F_E2I0	F_E2I1	F_E2I2	F_E2I3	F_E3I0	F_E3I1	F_E3I2	F_E3I3	F_E4I0	F_E4I1	F_E4I2	F_E4I3	F_E5I0	F_E5I1	F_E5I2	F_E5I3	F_E6I0	F_E6I1	F_E6I2	F_E6I3	F_E7I0	F_E7I1	F_E7I2	F_E7I3	F_E8I0	F_E8I1	F_E8I2	F_E8I3	F_E9I0	F_E9I1	F_E9I2	F_E9I3	avgIter	conv	div	target[0]	target[1]	target[2]	target[3]	target[4]	target[5]	target[6]	target[7]	target[8]	target[9]	sigma[0]	sigma[1]	sigma[2]	sigma[3]	sigma[4]	sigma[5]	sigma[6]	sigma[7]	sigma[8]	sigma[9]	dist[0]	dist[1]	dist[2]	dist[3]	dist[4]	dist[5]	dist[6]	dist[7]	dist[8]	dist[9]	sigma[0]	sigma[1]	sigma[2]	sigma[3]	sigma[4]	sigma[5]	sigma[6]	sigma[7]	sigma[8]	sigma[9]	minAbs	maxAbs	avgAbs	sigmaAbs	minSize	maxSize	avgSize	sigmaSize	minNP0	maxNP0	avgNP0	sigmaNP0	minNP1	maxNP1	avgNP1	sigmaNP1	minNP2	maxNP2	avgNP2	sigmaNP2	minNP3	maxNP3	avgNP3	sigmaNP3	minNP4	maxNP4	avgNP4	sigmaNP4	minNP5	maxNP5	avgNP5	sigmaNP5	minNP6	maxNP6	avgNP6	sigmaNP6	minNP7	maxNP7	avgNP7	sigmaNP7	minNP8	maxNP8	avgNP8	sigmaNP8	minNP9	maxNP9	avgNP9	sigmaNP9	nodeHash
+	2017-05-08 11:46:01	2017-05-08 11:46:54	Reference Method	1000	500	de.bzus.flame.process.EVFlame	-47,00000	35,00000	-38,00000	26,00000	34,00000	-37,00000	-42,00000	16,00000	-17,00000	1,00000	-73,00000	-5,00000	8,00000	-4,00000	-10,00000	-93,00000	-20,00000	23,00000	9,00000	2,00000	25586	1936	10	10	0,94872	0,90007	0,68176	0,46480	0,55133	0,30397	0,59648	0,35579	0,53932	0,29087	0,21172	0,04482	0,81355	0,66187	0,11166	0,01247	0,94872	0,90007	0,37412	0,13996	0,11508	0,01324	6	20	40	37	58	60	57	16	43	96	8	77	27	0	15	6	25	47	46	14	     6	    55	    53	    20	    40	    63	    78	    37	    92	    60	    58	    97	    57	    32	    99	    16	    43	    97	    60	    96	     8	    77	    81	    82	    35	     0	    27	     4	    15	     6	    25	    99	    25	    70	    45	    47	    55	    16	    46	    14	  214	  983	   17	0,13421	0,08286	0,09869	0,07895	0,01133	0,20926	0,00313	0,34194	0,03631	0,00332	0,01087	0,00879	0,00951	0,00860	0,00338	0,01297	0,00178	0,01513	0,00597	0,00184	0,13733	0,07528	0,10071	0,07731	0,01526	0,19227	0,00102	0,36317	0,03662	0,00102	0,01098	0,00842	0,00960	0,00852	0,00391	0,01257	0,00102	0,01534	0,00599	0,00102	   23	 4084	  500	  471	 9695	1008512	300418	281543	  237	469215	21359	  258	  167	466153	12397	  227	  154	462580	15154	  235	  137	467644	10976	  210	  305	445618	 3280	  133	  158	476562	26195	  271	  231	15431	 1504	   36	  104	471883	52567	  322	  315	378909	 4970	  145	  231	29098	 1472	   40	0E2A2CB7
+sample started at 2017-05-08 11:46:01
+
+source swarm=EVFlame
+state :
+Row 0 : ((-47,00000+35,00000i) )
+Row 1 : ((-38,00000+26,00000i) )
+Row 2 : ((34,00000-37,00000i) )
+Row 3 : ((-42,00000+16,00000i) )
+Row 4 : ((-17,00000+i) )
+Row 5 : ((-73,00000-5,00000i) )
+Row 6 : ((8,00000-4,00000i) )
+Row 7 : ((-10,00000-93,00000i) )
+Row 8 : ((-20,00000+23,00000i) )
+Row 9 : ((9,00000+2,00000i) )
+
+absQ=25586; size=1936; stateDimension=10; particleDimension=10; tgt=0,94872; excitation=0,90007
+target(0)=0,68176; excitation(0)=0,46480
+target(1)=0,55133; excitation(1)=0,30397
+target(2)=0,59648; excitation(2)=0,35579
+target(3)=0,53932; excitation(3)=0,29087
+target(4)=0,21172; excitation(4)=0,04482
+target(5)=0,81355; excitation(5)=0,66187
+target(6)=0,11166; excitation(6)=0,01247
+target(7)=0,94872; excitation(7)=0,90007
+target(8)=0,37412; excitation(8)=0,13996
+target(9)=0,11508; excitation(9)=0,01324
+nullCountRe(0)=6; nullCountIm(0)=20 
+nullCountRe(1)=40; nullCountIm(1)=37 
+nullCountRe(2)=58; nullCountIm(2)=60 
+nullCountRe(3)=57; nullCountIm(3)=16 
+nullCountRe(4)=43; nullCountIm(4)=96 
+nullCountRe(5)=8; nullCountIm(5)=77 
+nullCountRe(6)=27; nullCountIm(6)=0 
+nullCountRe(7)=15; nullCountIm(7)=6 
+nullCountRe(8)=25; nullCountIm(8)=47 
+nullCountRe(9)=46; nullCountIm(9)=14 
+
+	E_1	E_2	E_3	E_4	E_5	E_6	E_7	E_8	E_9	E_10
+*(1):	6	40	92	57	43	8	35	15	25	55
+*(i):	55	63	60	32	97	77	0	6	70	16
+*(-1):	53	78	58	99	60	81	27	25	45	46
+(-i):	20	37	97	16	96	82	4	99	47	14
+
+
+source swarm EVFlame
+state :
+Row 0 : ((-47,00000+35,00000i) )
+Row 1 : ((-38,00000+26,00000i) )
+Row 2 : ((34,00000-37,00000i) )
+Row 3 : ((-42,00000+16,00000i) )
+Row 4 : ((-17,00000+i) )
+Row 5 : ((-73,00000-5,00000i) )
+Row 6 : ((8,00000-4,00000i) )
+Row 7 : ((-10,00000-93,00000i) )
+Row 8 : ((-20,00000+23,00000i) )
+Row 9 : ((9,00000+2,00000i) )
+
+absQ=25586; size=1936; stateDimension=10; particleDimension=10; tgt=0,94872; excitation=0,90007
+target(0)=0,68176; excitation(0)=0,46480
+target(1)=0,55133; excitation(1)=0,30397
+target(2)=0,59648; excitation(2)=0,35579
+target(3)=0,53932; excitation(3)=0,29087
+target(4)=0,21172; excitation(4)=0,04482
+target(5)=0,81355; excitation(5)=0,66187
+target(6)=0,11166; excitation(6)=0,01247
+target(7)=0,94872; excitation(7)=0,90007
+target(8)=0,37412; excitation(8)=0,13996
+target(9)=0,11508; excitation(9)=0,01324
+nullCountRe(0)=6; nullCountIm(0)=20 
+nullCountRe(1)=40; nullCountIm(1)=37 
+nullCountRe(2)=58; nullCountIm(2)=60 
+nullCountRe(3)=57; nullCountIm(3)=16 
+nullCountRe(4)=43; nullCountIm(4)=96 
+nullCountRe(5)=8; nullCountIm(5)=77 
+nullCountRe(6)=27; nullCountIm(6)=0 
+nullCountRe(7)=15; nullCountIm(7)=6 
+nullCountRe(8)=25; nullCountIm(8)=47 
+nullCountRe(9)=46; nullCountIm(9)=14 
+
+	E_1	E_2	E_3	E_4	E_5	E_6	E_7	E_8	E_9	E_10
+*(1):	6	40	92	57	43	8	35	15	25	55
+*(i):	55	63	60	32	97	77	0	6	70	16
+*(-1):	53	78	58	99	60	81	27	25	45	46
+(-i):	20	37	97	16	96	82	4	99	47	14
+
+
+results from Reference Method running 1000 measurements at 500 iterations each:
+Globals: maxSwarmSize=1000000; minimalExcitement=1.0E-4; defaultRandMin=1000; defaultRandMax=10000; defaultMeasurements=100; defaultIterations=500; defaultDimension=5; defaultHistories=10; defaultUseObservable=true; log directory=./log; script directory=./xml
+
+relative values:
+targets=	 13,42 %	  8,29 %	  9,87 %	  7,89 %	  1,13 %	 20,93 %	  0,31 %	 34,19 %	  3,63 %	  0,33 %
+results=	 13,73 %	  7,53 %	 10,07 %	  7,73 %	  1,53 %	 19,23 %	  0,10 %	 36,32 %	  3,66 %	  0,10 %
+sigma=	  1,08 %	  0,87 %	  0,94 %	  0,85 %	  0,33 %	  1,29 %	  0,18 %	  1,50 %	  0,59 %	  0,18 %
+divergent:   1,70 %; convergent:  98,30 % based on       1000 measurements performed
+
+absolute values:
+targets=	       132	        81	        97	        78	        11	       206	         3	       336	        36	         3
+results=	       135	        74	        99	        76	        15	       189	         1	       357	        36	         1
+sigma=	      10,7	       8,6	       9,4	       8,5	       3,3	      12,8	       1,8	      14,9	       5,9	       1,8
+measurements scheduled:       1000; divergent:         17; convergent        983
+
+statistics:
+medium size=300418	sigma=281543	max size=1008512	min size= 9695
+medium abs=  500	sigma=  471	max abs= 4084	min abs=   23
+
+sample finished at 2017-05-08 11:46:55
